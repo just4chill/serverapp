@@ -1,0 +1,21 @@
+
+
+Started GET "/" for 127.0.0.1 at 2015-04-08 16:37:36 +0530
+Processing by HomeController#index as HTML
+  Rendered home/index.html.slim within layouts/application (28.0ms)
+Completed 200 OK in 2389ms (Views: 2366.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application-5266d2988799ecc8fe6e81eaab412e7d.css?body=1" for 127.0.0.1 at 2015-04-08 16:37:39 +0530
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for 127.0.0.1 at 2015-04-08 16:37:39 +0530
+
+
+Started GET "/assets/application-bc105cf26f847567b5eae624a793b626.js?body=1" for 127.0.0.1 at 2015-04-08 16:37:39 +0530
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for 127.0.0.1 at 2015-04-08 16:37:39 +0530
+
+
+Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for 127.0.0.1 at 2015-04-08 16:37:39 +0530
